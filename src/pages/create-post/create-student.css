@@ -1,0 +1,35 @@
+.post-form{
+    margin-top: 50px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightblue;
+    width:40%;
+    border-radius: 10px;
+}
+
+.post-form h2{
+    margin-bottom: 10px;
+}
+
+.post-form input,textarea{
+    padding: 10px;
+    border: 0px transparent;
+    color: blue;
+    width : 80%;
+    z-index: 1;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.post-submit{
+    background-color: blue;
+    color: white;
+    border: 0;
+    padding: 10px;
+    margin: 10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-weight: 700;
+}

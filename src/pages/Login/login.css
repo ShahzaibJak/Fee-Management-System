@@ -1,0 +1,20 @@
+.search-form{
+    max-width: 600px;
+    width: 70vw;
+    padding: 20px;
+    margin: 10px;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin:10px auto;
+}
+
+.search-form input{
+    width: 80%;
+    border-radius: 5px;
+    border:0;
+    background-color: white;
+    color: slateblue;
+    min-height: 2rem;
+    margin: 5px;
+    padding: 5px;
+}
